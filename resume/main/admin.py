@@ -1,5 +1,6 @@
 from django.contrib import admin
-from resume.main.models import (
+
+from .models import (
     Blog,
     Certificate,
     ContactProfile,
